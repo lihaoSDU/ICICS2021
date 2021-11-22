@@ -1,1 +1,2 @@
-Coming Soon (Source code will be released after the conference)
+1. run DSAN
+2. run Fuzzer
